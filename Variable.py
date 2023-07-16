@@ -30,3 +30,4 @@ print(type(money))
 print("you dont like btc : "+ str(money))
 print ("you dont like Fiat: "+str(btc) )
 #chapter ends here.
+#sync check.
