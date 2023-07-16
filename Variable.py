@@ -17,3 +17,16 @@ age += 1
 #now lets display the int with str we will have to use intr as a str
 print("Hello "+ full_name+ " "+ "your age is :" + str(age))
 #here we used the str(variable) to use a intr variable as a string variable.
+#Now the next Data type is going to be Float, its basically the decimle numbers.
+height = 500.5
+print(type(height)) #this will show us the type of variable in the output window.
+#now lets print this
+#print("Your Height is " +" " + height+ " cm") # this will mot work as we will have to define the float as a str
+print("Your height is :"+ ""+ str(height)+ "Cm")
+#boolean = true or false 
+money = False
+btc = True 
+print(type(money))
+print("you dont like btc : "+ str(money))
+print ("you dont like Fiat: "+str(btc) )
+#chapter ends here.
