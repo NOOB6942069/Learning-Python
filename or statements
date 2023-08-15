@@ -1,0 +1,33 @@
+z, x, c = map(int, input().split())
+
+# Update your code below this line to compare c with z and x
+if c > x or c > z :
+    print("PASS")
+else:
+    print("fail")
+#The 'or' operator is another logical operator in Python that allows you to combine multiple conditions.
+It returns 'True' if at least one of the conditions is true, and 'False' if all the conditions are false.
+#solved for the questions - Write a program which does the following
+
+Take input from the console for integer variables 
+�
+z, 
+�
+x and 
+�
+c.
+Compute and output the following for each tuple 
+�
+z, 
+�
+x and 
+�
+c
+"PASS" if 
+�
+c is greater than either 
+�
+x or 
+�
+z
+Otherwise print "FAIL" in every other case
